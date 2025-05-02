@@ -1,4 +1,4 @@
-# delta_juliett_yankee
+# Delta_Juliett_Yankee
 这是我为飞友朋友们建的网站，用作留言板。 
 有飞友请加入！
 
